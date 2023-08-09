@@ -1,4 +1,4 @@
-This project has the objetive of learn and study about [Next.js](https://nextjs.org/) and [MUI](https://mui.com/)
+This project aims to learn and study about [Next.js](https://nextjs.org/) and [MUI](https://mui.com/)
 
 ## Getting Started
 
