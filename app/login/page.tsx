@@ -109,8 +109,8 @@ export default function LoginPage() {
         >
           <Image
             width={180}
-            height={63}
-            alt="Tipminer Logo"
+            height={120}
+            alt="logo"
             src="/assets/logo.png"
           />
           <Typography component="h1" variant="h5">

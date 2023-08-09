@@ -44,11 +44,11 @@ export default function Navbar({ isSidebarOpen, handleOpenCloseSidebar }: ISideb
             '& .simplebar-content': { height: 1, display: 'flex', flexDirection: 'column' },
           }}
         >
-          <Box sx={{ px: 2.5, py: 3, display: 'inline-flex' }}>
+          <Box sx={{ px: 2.5, py: 3, display: 'inline-flex', width: '100%', justifyContent: 'center' }}>
             <Image
               width={180}
-              height={63}
-              alt="Tipminer Logo"
+              height={120}
+              alt="Logo"
               src="/assets/logo.png"
             />
           </Box>
@@ -77,8 +77,8 @@ export default function Navbar({ isSidebarOpen, handleOpenCloseSidebar }: ISideb
           <Box sx={{ px: 2.5, py: 3, display: 'inline-flex' }}>
             <Image
               width={180}
-              height={63}
-              alt="Tipminer Logo"
+              height={120}
+              alt="Logo"
               src="/assets/logo.png"
             />
           </Box>
